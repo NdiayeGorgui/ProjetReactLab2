@@ -1,1 +1,1 @@
-salut djdjdj oooooo
+echo salut djdjdj oooooo
